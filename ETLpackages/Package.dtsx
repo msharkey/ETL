@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/22/2018 3:15:26 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="OMC-5CG6151GZF"
+  DTS:CreatorName="INTRANET\MASHARKEY"
+  DTS:DTSID="{2E06B1A0-6CDD-4A10-9263-CDEF81C4BBFE}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="14.0.3002.68"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{06C92A90-53EF-4B6F-B2B0-EA0EDF06DD6B}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
